@@ -3,13 +3,15 @@
 > Little step record
 >>  Android Studio and Python lesson in April(still working on final project)
 >>  
->> Python crawler for AbaiduSVI in March
+>> Python crawler for BaiduSVI in March
 >> 
 >> Start to learn Java in January(我慢我忏悔
 
 
+
 > Studying
 >> MySQL（3/5) html （3/5)
+
 
 
 > Really cannot figure out
